@@ -149,7 +149,10 @@ UCeaJ37P2B1QUGgsI0RyFugw, UC27rIYEr46EU4jFrKd98YBQ, UCAYM3gdjwLdNYRUTDoDEk7A, UC
 | T10 | `{City} Shouldn't Exist` / `The City That Refused to Die` | Venice, Istanbul variants |
 
 ### 3.2 Rules
-- Use T1 for the "series" videos, because it is searchable. Use T2–T10 for browse virality. Mix about 50/50.
+- **Do NOT lead with T1 ("The ENTIRE History of X in N Minutes").** It is saturated: about 12 new channels used it for Istanbul alone in 2 months, each with <1,500 views. Big established channels (Majestic, This Is History) can still win with it; a new channel can't.
+- **Lead with ONE specific, true, surprising fact about the city** (T4 pattern; Seattle "Raised 22 Feet" got 86x). The video still tells the full founding → today story, framed around that hook.
+- Put "entire history of {city}" / "history of {city}" in the **description's first line, the tags and the chapters**. Search still finds you, but the title wins browse.
+- The hook fact must appear in the first 60 seconds, and it must be verified.
 - **Do not say "ENTIRE" unless you cover founding → today.** HTO got a 103-like complaint for that.
 - One CAPS word maximum. No clickbait you don't pay off in the first 60 seconds.
 - Use YouTube "Test & Compare" (title/thumbnail A/B) when available.
@@ -521,40 +524,49 @@ You approve ─► YouTube API: scheduled upload with metadata
 
 ## 13. First 30 videos (starter queue)
 
-Order = mix of proven demand, gaps and high-RPM geographies. Re-validate each with §2.4 before scripting.
+The **cities** are chosen because demand is proven. The **titles** are what make you different: one specific, surprising fact per city instead of the saturated "ENTIRE History of X in N Minutes".
+Each video still covers the city's full history, framed around its hook. Facts marked [VERIFY] must be checked in the fact sheet (§4) before use. Re-run the gap test (§2.4) before scripting.
 
-| # | City | Suggested title angle | Why |
-|---|---|---|---|
-| 1 | London | T1 "The ENTIRE History of London in 12 Minutes" | 3.2M + 1.5M proven; high RPM |
-| 2 | Jerusalem | T2 "…: The Most Fought-Over City on Earth" | 2.3M + 657K (small channel) |
-| 3 | Rome | T1 | 9.2M proven |
-| 4 | New York | T4 "New York Was Once Called New Amsterdam…" / T1 | 1.27M; US RPM |
-| 5 | Istanbul | T10 "The City That Refused to Die" | 470K + 630K; many weak clones, so differentiate |
-| 6 | Paris | T1 | 1.5M + 949K |
-| 7 | Berlin | T1 (English) | **Gap**: German version 250K, English <30K |
-| 8 | Dubai | T5 "From Pearl Village to Megacity" | **Gap**: demand (1.2M Al Maktoum doc), weak supply |
-| 9 | Baghdad | T5 "The Greatest City on Earth, and How It Fell" | **Gap**: only Cogito (4 yrs old) |
-| 10 | Venice | T10 "Venice Shouldn't Exist" | 1.45M Epic History; Thomas 474K |
-| 11 | Babylon | T8 "A Tour of Babylon in 570 BC" | 478K (22.6x), 517K |
-| 12 | Las Vegas | T1 / "From Desert to Sin City" | 646K (9.5x) |
-| 13 | Los Angeles | T1 | 223K (4.1x) |
-| 14 | Constantinople 1453 | T9 | Proven drama |
-| 15 | Pompeii | T9 "Pompeii: The Day Before" | 648K |
-| 16 | Tokyo / Edo | T4 "Tokyo Was Destroyed Twice in 22 Years" | Japan topic proven on HTO |
-| 17 | Mexico City / Tenochtitlan | T4 "Built on a Lake" | 1.39M (ES) |
-| 18 | Delhi | T2 "The City Destroyed and Rebuilt 7 Times" | Hindi 1–4M; English gap |
-| 19 | Cairo | T1 | Check gap |
-| 20 | Alexandria | T5 "Rise and Fall of the Ancient World's Greatest Library City" | Check gap |
-| 21 | Chicago | T4 "Chicago Burned Down in 1871, and Came Back Taller" | US RPM |
-| 22 | Sydney | T1 | 123K (Midtown) |
-| 23 | Edinburgh | T1 | UK RPM, check gap |
-| 24 | St Petersburg | T4 "A City Built on a Swamp by Order of One Man" | Check gap |
-| 25 | Athens | T1 | Check gap |
-| 26 | Lahore | T1 | Test for an Urdu/Hindi spin-off |
-| 27 | Detroit | T5 "Rise and Fall of America's Motor City" | Paul McAllister angle proven |
-| 28 | Seattle | T4 (underground city) | 468K (86x) |
-| 29 | Hong Kong | T5 | Check gap |
-| 30 | Damascus | T2 "The Oldest Continuously Inhabited City?" | Check gap; keep it balanced |
+| # | City | Title (hook-first) | Hook fact | Why this city |
+|---|---|---|---|---|
+| 1 | London | London Was Burned to Ash in 60 AD. Then It Took Over the World | Boudica burned Londinium | 3.2M + 1.5M proven; UK RPM |
+| 2 | Jerusalem | Jerusalem Has Been Besieged 23 Times. Why Everyone Wants It | Eric Cline, *Jerusalem Besieged* (2004) [VERIFY] | 2.3M + 657K (small channel) |
+| 3 | Rome | Rome Fell From 1 Million People to 30,000. What Happened? | Medieval population collapse [VERIFY numbers] | 9.2M proven |
+| 4 | New York | The Dutch Never Bought Manhattan for $24 | Famous myth (60 guilders, unclear deal) | 1.27M; US RPM |
+| 5 | Istanbul | Constantinople's Walls Held for 1,000 Years. Then One Cannon Arrived | Theodosian Walls → 1453 | 470K + 630K; title stands out from the clones |
+| 6 | Paris | Paris Is Sitting on 6 Million Skeletons | Catacombs / old quarries | 1.5M + 949K |
+| 7 | Berlin | Berlin Was Split in Two Overnight | 13 Aug 1961 | **Gap** in English |
+| 8 | Dubai | Dubai Had Almost No Paved Roads in 1960. How Did This Happen? | [VERIFY] | **Gap**: Al Maktoum doc 1.2M |
+| 9 | Baghdad | Baghdad Was the Biggest City on Earth. Then the Mongols Came | c. 900 AD peak, 1258 sack | **Gap**: Cogito only (4 yrs) |
+| 10 | Venice | Venice Is Built on Millions of Tree Trunks, and It's Sinking | Wooden piles | 1.45M + 474K |
+| 11 | Babylon | Babylon Was the First City of 200,000 People. Where Did It Go? | [VERIFY] | 478K (22.6x) |
+| 12 | Las Vegas | Las Vegas Was Built by a Dam and the Mob | Hoover Dam + mob casinos | 646K (9.5x) |
+| 13 | Los Angeles | Los Angeles Took Another Valley's River to Survive | Owens Valley aqueduct (1913) | 223K (4.1x) |
+| 14 | Pompeii | Pompeii: The Last 24 Hours Before the Eruption | 79 AD | 648K |
+| 15 | Tokyo | Tokyo Was Destroyed Twice in 22 Years | 1923 quake, 1945 firebombing | Japan proven on HTO |
+| 16 | Mexico City | Mexico City Is Built on a Lake, and It's Sinking | Tenochtitlan + subsidence [VERIFY rate] | 1.39M (ES) |
+| 17 | Delhi | Delhi Was Built 7 Times. Every Empire Wanted It | "Seven cities of Delhi" [VERIFY framing] | Hindi 1–4M; English gap |
+| 18 | Chicago | Chicago Lifted Its Entire City Out of the Mud | 1850s–60s street raising | US RPM |
+| 19 | Alexandria | The Greatest City of the Ancient World Is Now Underwater | Sunken royal quarter | Check gap |
+| 20 | St Petersburg | One Man Ordered a Capital Built on a Swamp | Peter the Great, 1703 [VERIFY death toll if used] | Check gap |
+| 21 | Detroit | America's Richest City Went Bankrupt | 2013 bankruptcy | Paul McAllister angle proven |
+| 22 | Edinburgh | There's a Whole Street Buried Under Edinburgh | Mary King's Close | UK RPM |
+| 23 | Kyoto | The City America Decided Not to Bomb | Removed from the 1945 target list | Japan proven; strong curiosity |
+| 24 | Sydney | Sydney Began as a Prison | 1788 penal colony | 123K Midtown + "sent to Australia" 342K (11x) |
+| 25 | Hong Kong | Britain Leased Hong Kong for 99 Years. Then Time Ran Out | 1898 lease → 1997 | Check gap |
+| 26 | Athens | Athens Shrank to a Village of 4,000 People | c. 1830s [VERIFY] | Check gap |
+| 27 | Petra | A City Carved Into Rock That the West Forgot for Centuries | 1812 Burckhardt | Check gap |
+| 28 | Damascus | Is This the Oldest City Still Alive? | Continuous habitation claim (disputed) | Keep it balanced |
+| 29 | Cairo | The City of a Thousand Minarets | Medieval Cairo nickname | Check gap |
+| 30 | Lahore | Why Mughals, Sikhs and the British All Wanted Lahore | 3 empires | Urdu/Hindi spin-off test |
+
+**Other idea formats** (so the channel isn't only city biographies; each is proven by an outlier in `research/02-city-niche-data.md`):
+- **City in year X:** "London in 1348: The Year Half the City Died" (Arthur: 1.27M)
+- **Buried / underground city:** Seattle (86x), Edinburgh, Paris
+- **Rise and fall:** Detroit, Buffalo (304K), Aberdeen, Blackpool
+- **How it was built:** Venice piles (474K, 7x), Chicago raising, Amsterdam
+- **Why the city is HERE:** geography-first explainer
+- **Ancient-city tour:** Babylon 570 BC (22.6x), Rome 100 AD, Tenochtitlan 1519
 
 ---
 
